@@ -1,0 +1,25 @@
+{
+  "name": "JY-NoSQL-Social-API",
+  "version": "1.0.0",
+  "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keemperor/JY-NoSQL-Social-API.git"
+  },
+  "keywords": [],
+  "author": "Jacob Yarce ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keemperor/JY-NoSQL-Social-API/issues"
+  },
+  "homepage": "https://github.com/Keemperor/JY-NoSQL-Social-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.14"
+  }
+}
